@@ -10,7 +10,10 @@ gem "rails", "~> 7.0.4", ">= 7.0.4.2"
 gem "sprockets-rails"
 
 # Use sqlite3 as the database for Active Record
-
+gem "devise"
+gem "twitter-bootstrap-rails"
+gem "devise-bootstrap-views"
+gem "jquery-rails"
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 
